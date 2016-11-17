@@ -8,5 +8,8 @@ Heading Text: |-
   We create brand experiences that add value, enrich lives and deliver results for your business.
 
   [Find Out How](http://www.sjp.com/approach/)
+Articles:
+- post: Joe Test Article
+- post: Test Article
 ---
 
