@@ -9,7 +9,7 @@ Heading Text: |-
 
   [Find Out How](http://www.sjp.com/approach/)
 Articles:
-- post: Joe Test Article
 - post: Test Article
+- post: Joe Test Article
 ---
 
